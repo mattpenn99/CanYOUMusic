@@ -1,14 +1,14 @@
-## UNLOCK THE FULL POTENTIAL OF YOUR MUSICAL MIND!
+# UNLOCK THE FULL POTENTIAL OF YOUR MUSICAL MIND!
 
 Can YOU Music? is a revolutionary music education platform for developing listening skills, designed to be playable by anyone regardless of musical experience.
 
 Play levels, earn stars, challenge bosses and unlock features—all while sharpening your listening skills underneath the hood.
 
-# NO MUSICAL EXPERIENCE? NO PROBLEM!
+## NO MUSICAL EXPERIENCE? NO PROBLEM!
 
 Whether you are a professional musician, a total beginner, or somewhere in between, this game was made for you.
 
-# WHY SHOULD I PLAY?
+## WHY SHOULD I PLAY?
 
 While the skills learned here are invaluable to a musician, they are also useful for anyone with even a remote interest in music of any kind.
 
