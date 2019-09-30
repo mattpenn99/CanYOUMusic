@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Can YOU Music?
 
 You can use the [editor on GitHub](https://github.com/mattpenn99/CanYOUMusic/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
