@@ -16,4 +16,4 @@ If you have ever learned a new language, you know that even a cursory understand
 
 This game teaches you what we consider the analogous principles as they pertain to the language of music, unlocking a whole world of insight that you might otherwise have never known existed.
 
-#### Support: CanYOUMusicApp@gmail.com
+#### Support: link(CanYOUMusicApp@gmail.com)
